@@ -108,5 +108,9 @@ name = "test_lib_bench_tools"
 harness = false
 
 [[bench]]
+name = "test_lib_bench_multi_thread"
+harness = false
+
+[[bench]]
 name = "test_bench"
 harness = false
